@@ -19,9 +19,9 @@ npm install
 ```
 3.解子包
 ```
-./bingo.sh <子包路径> -s=<主包解包后生成的文件夹>
+./bingo.sh <子包路径> -s=<子包解包后生成的文件夹>
 ```
 例:
 ```
-./bingo.sh /Users/whoami/Desktop/WxAPP/30/_pages_guide_.wxapkg -s=/Users/whoami/Desktop/WxAPP/30/__APP__
+./bingo.sh /Users/whoami/Desktop/WxAPP/30/_pages_guide_.wxapkg -s=/Users/whoami/Desktop/WxAPP/30/_pages_guide_
 ```
