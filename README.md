@@ -25,3 +25,5 @@ npm install
 ```
 ./bingo.sh /Users/whoami/Desktop/WxAPP/30/_pages_guide_.wxapkg -s=/Users/whoami/Desktop/WxAPP/30/_pages_guide_
 ```
+相关视频:</br>
+https://www.bilibili.com/video/BV1n6fsYfEzc/?spm_id_from=333.337.search-card.all.click&vd_source=a9f08253ff8594030a6c15fe33143ef3
